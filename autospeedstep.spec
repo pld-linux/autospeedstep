@@ -1,5 +1,5 @@
 Summary:	autospeedstep controls the speed on Intel Speedstep CPUs
-Summary(pl):	autosppedstep - kontrola szybko¶ci procesorów Intel Speedstep
+Summary(pl):	autospeedstep - kontrola szybko¶ci procesorów Intel Speedstep
 Name:		autospeedstep
 Version:	0.2
 Release:	1
