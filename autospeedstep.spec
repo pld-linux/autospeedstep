@@ -6,6 +6,7 @@ Release:	1
 License:	GPL v2
 Group:		Applications/System
 Source0:	http://gpsdrive.kraftvoll.at/%{name}-%{version}.tar.gz
+# Source0-md5:	b3f22896dcb04cf269666e2d9060a654
 URL:		http://gpsdrive.kraftvoll.at/speedstep.shtml
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
