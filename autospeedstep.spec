@@ -1,5 +1,5 @@
 Summary:	autospeedstep controls the speed on Intel Speedstep CPUs
-Summary(pl):	autospeedstep - kontrola szybko¶ci procesorów Intel Speedstep
+Summary(pl.UTF-8):   autospeedstep - kontrola szybkoÅ›ci procesorÃ³w Intel Speedstep
 Name:		autospeedstep
 Version:	0.2
 Release:	1
@@ -15,10 +15,10 @@ autospeedstep is a daemon that controls power consumption and
 processor speed depending of the CPU load. It works ONLY with Intel
 Speedstep CPUs and Linux kernels running the 2.5 ACPI backport.
 
-%description -l pl
-autospeedstep to demon kontroluj±cy zu¿ycie energii i szybko¶æ
-procesora w zale¿no¶ci od obci±¿enia. Dzia³a TYLKO z procesorami
-Intel Speedstep i j±drami Linuksa zawieraj±cymi obs³ugê ACPI z serii
+%description -l pl.UTF-8
+autospeedstep to demon kontrolujÄ…cy zuÅ¼ycie energii i szybkoÅ›Ä‡
+procesora w zaleÅ¼noÅ›ci od obciÄ…Å¼enia. DziaÅ‚a TYLKO z procesorami
+Intel Speedstep i jÄ…drami Linuksa zawierajÄ…cymi obsÅ‚ugÄ™ ACPI z serii
 2.5.
 
 %prep
